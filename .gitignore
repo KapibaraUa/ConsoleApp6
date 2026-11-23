@@ -1,0 +1,11 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Rider / Visual Studio
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
